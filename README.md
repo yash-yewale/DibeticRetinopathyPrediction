@@ -13,10 +13,3 @@ This project uses Deep Learning (EfficientNetB0) to detect the severity of Diabe
 
 
 
-### 📂 Files
-* `Diabetic_Retinopathy.ipynb`: The complete training and evaluation notebook.
-* `app.py`: The Gradio application script.
-* `requirements.txt`: List of libraries used.
-
----
-*Created as a Deep Learning project using TensorFlow and Keras.*
